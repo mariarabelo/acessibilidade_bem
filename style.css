@@ -1,3 +1,17 @@
 *{
     margin: 0 px;
     padding: 0px;
+}
+
+.erro{
+    display: none;
+    background-color: red;
+    color: bisque;
+    font-size:30px;
+}
+
+.acerto{
+    display: none;
+    background-color: blueviolet;
+    color: 30px;
+}
